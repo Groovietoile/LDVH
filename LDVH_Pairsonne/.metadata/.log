@@ -1,0 +1,16 @@
+!SESSION 2020-10-18 18:16:17.259 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.20 - pwa6480sr5fp20-20180802_01(SR5 FP20)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20180731_393394 (JIT enabled, AOT enabled)
+OpenJ9   - bd23af8
+OMR      - ca1411c
+IBM      - 98805ca
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product com.ibm.rational.rsa.product.v97.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rsa.product.v97.ide
+
+!ENTRY org.eclipse.ui 2 2 2020-10-18 18:22:29.766
+!MESSAGE com.ibm.xtools.mde.guidance: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2020-10-18 18:22:29.774
+!MESSAGE com.ibm.ccl.erf.ui.views.reportexplorer: Deprecated relationship "fast" should be converted to "stack".
