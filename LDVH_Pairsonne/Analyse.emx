@@ -496,6 +496,35 @@
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oiu8cQ1CEeuiz9iyi8Qy2Q" points="[-1272, 181, 5383, 10769]$[-6465, 181, 190, 10769]$[-6465, -9391, 190, 1197]"/>
         </edges>
       </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_45wI4BFNEeukaPV6GglwFA" type="Class" name="DiagrammeClasseAnalyse">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_8DeS4BFNEeukaPV6GglwFA" element="_8DCOABFNEeukaPV6GglwFA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_8DgIEBFNEeukaPV6GglwFA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_8DgIERFNEeukaPV6GglwFA" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_8DgvIBFNEeukaPV6GglwFA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_8DgvIRFNEeukaPV6GglwFA" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_8DhWMBFNEeukaPV6GglwFA" type="Parent"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_8Dh9QBFNEeukaPV6GglwFA" type="AttributeCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_8Dh9QRFNEeukaPV6GglwFA" type="OperationCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_8Dh9QhFNEeukaPV6GglwFA" visible="false" type="SignalCompartment"/>
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_8DikUBFNEeukaPV6GglwFA" visible="false" type="StructureCompartment"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8DeS4RFNEeukaPV6GglwFA" x="6204" y="2640"/>
+        </children>
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_GcswgBFOEeukaPV6GglwFA" element="_GcriYBFOEeukaPV6GglwFA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_GcswghFOEeukaPV6GglwFA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_GcswgxFOEeukaPV6GglwFA" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_GcswhBFOEeukaPV6GglwFA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_GcswhRFOEeukaPV6GglwFA" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_GcswhhFOEeukaPV6GglwFA" type="Parent"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_GctXkBFOEeukaPV6GglwFA" type="AttributeCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_GctXkRFOEeukaPV6GglwFA" type="OperationCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_Gct-oBFOEeukaPV6GglwFA" visible="false" type="SignalCompartment"/>
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Gct-oRFOEeukaPV6GglwFA" visible="false" type="StructureCompartment"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GcswgRFOEeukaPV6GglwFA" x="11748" y="4224"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
     </eAnnotations>
     <packageImport xmi:id="_Pc9g9Q05Eeuiz9iyi8Qy2Q">
       <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
@@ -605,6 +634,27 @@
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_WU2FIA1BEeuiz9iyi8Qy2Q" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_WU1eEA1BEeuiz9iyi8Qy2Q" value="1"/>
       </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_8DCOABFNEeukaPV6GglwFA" name="Livre">
+      <ownedAttribute xmi:id="_AO8NwBFOEeukaPV6GglwFA" name="titre" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_C6X5QBFOEeukaPV6GglwFA" name="auteur" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_GcriYBFOEeukaPV6GglwFA" name="Section">
+      <ownedAttribute xmi:id="_IIzF8BFOEeukaPV6GglwFA" name="numero" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:id="_R4PmwBFOEeukaPV6GglwFA" name="objets" visibility="private">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fZ6cABFOEeukaPV6GglwFA" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fZ508BFOEeukaPV6GglwFA"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:InstanceSpecification" xmi:id="_hpVg8BFOEeukaPV6GglwFA" name="InstanceSpecification1" classifier="_GcriYBFOEeukaPV6GglwFA">
+      <slot xmi:id="_hpX9MBFOEeukaPV6GglwFA" definingFeature="_R4PmwBFOEeukaPV6GglwFA"/>
     </packagedElement>
     <profileApplication xmi:id="_Pc9g9g05Eeuiz9iyi8Qy2Q">
       <eAnnotations xmi:id="_Pc9g9w05Eeuiz9iyi8Qy2Q" source="http://www.eclipse.org/uml2/2.0.0/UML">
