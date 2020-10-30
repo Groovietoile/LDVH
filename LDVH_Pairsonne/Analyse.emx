@@ -1340,7 +1340,7 @@
       <ownedOperation xmi:id="_tdIDQBq-EeuIW5Q61MLZKA" name="genererPages" visibility="private"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Collaboration" xmi:id="_PZqq8BqjEeuIW5Q61MLZKA" name="Collaboration1">
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_PZr5EBqjEeuIW5Q61MLZKA" name="Interaction1">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_PZr5EBqjEeuIW5Q61MLZKA" name="Créer livre (nominal)">
         <eAnnotations xmi:id="_PZsgIBqjEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_PZsgIRqjEeuIW5Q61MLZKA" type="Sequence" element="_PZr5EBqjEeuIW5Q61MLZKA" name="Créer livre (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_PZsgIhqjEeuIW5Q61MLZKA" element="_PZr5EBqjEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -1517,7 +1517,7 @@
         </message>
         <message xmi:id="_NM_3sRqmEeuIW5Q61MLZKA" name="sauvegardeLivre" messageSort="reply" receiveEvent="_NM_3shqmEeuIW5Q61MLZKA" sendEvent="_NM_3sBqmEeuIW5Q61MLZKA" connector="_8E9YsRqlEeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_jS27kBqmEeuIW5Q61MLZKA" name="Interaction2">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_jS27kBqmEeuIW5Q61MLZKA" name="Créer livre (A1)">
         <eAnnotations xmi:id="_jS3ioBqmEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_jS3ioRqmEeuIW5Q61MLZKA" type="Sequence" element="_jS27kBqmEeuIW5Q61MLZKA" name="Créer livre (A1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_jS3iohqmEeuIW5Q61MLZKA" element="_jS27kBqmEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -1645,7 +1645,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_s_LacBqnEeuIW5Q61MLZKA" name="Interaction3">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_s_LacBqnEeuIW5Q61MLZKA" name="Charger livre (nominal)">
         <eAnnotations xmi:id="_s_MBgBqnEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_s_MBgRqnEeuIW5Q61MLZKA" type="Sequence" element="_s_LacBqnEeuIW5Q61MLZKA" name="Charger livre (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_s_MBghqnEeuIW5Q61MLZKA" element="_s_LacBqnEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -1763,7 +1763,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_aoHHEBqoEeuIW5Q61MLZKA" name="Interaction4">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_aoHHEBqoEeuIW5Q61MLZKA" name="Charger livre (A1)">
         <eAnnotations xmi:id="_aoHuIBqoEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_aoHuIRqoEeuIW5Q61MLZKA" type="Sequence" element="_aoHHEBqoEeuIW5Q61MLZKA" name="Charger livre (A1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_aoHuIhqoEeuIW5Q61MLZKA" element="_aoHHEBqoEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -1894,7 +1894,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_nlcgMBqoEeuIW5Q61MLZKA" name="Interaction5">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_nlcgMBqoEeuIW5Q61MLZKA" name="Construire section (nominal)">
         <eAnnotations xmi:id="_nldHQBqoEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_nldHQRqoEeuIW5Q61MLZKA" type="Sequence" element="_nlcgMBqoEeuIW5Q61MLZKA" name="Construire section (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_nldHQhqoEeuIW5Q61MLZKA" element="_nlcgMBqoEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -2276,7 +2276,7 @@
         </message>
         <message xmi:id="_SBl10xqrEeuIW5Q61MLZKA" name="ajouterObjet" messageSort="reply" receiveEvent="_SBl11BqrEeuIW5Q61MLZKA" sendEvent="_SBl10hqrEeuIW5Q61MLZKA" connector="_PrQGARqqEeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_vsCFcBqrEeuIW5Q61MLZKA" name="Interaction6">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_vsCFcBqrEeuIW5Q61MLZKA" name="Construire section (A1)">
         <eAnnotations xmi:id="_vsCsgBqrEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vsCsgRqrEeuIW5Q61MLZKA" type="Sequence" element="_vsCFcBqrEeuIW5Q61MLZKA" name="Construire section (A1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_vsCsghqrEeuIW5Q61MLZKA" element="_vsCFcBqrEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -2398,7 +2398,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_GLfVEBqsEeuIW5Q61MLZKA" name="Interaction7">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_GLfVEBqsEeuIW5Q61MLZKA" name="Construire section (A2)">
         <eAnnotations xmi:id="_GLf8IBqsEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_GLf8IRqsEeuIW5Q61MLZKA" type="Sequence" element="_GLfVEBqsEeuIW5Q61MLZKA" name="Construire section (A2)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_GLf8IhqsEeuIW5Q61MLZKA" element="_GLfVEBqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -2562,7 +2562,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_UeuKIBqsEeuIW5Q61MLZKA" name="Interaction8">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_UeuKIBqsEeuIW5Q61MLZKA" name="Définir enchainement (nominal)">
         <eAnnotations xmi:id="_UeuxMBqsEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_UeuxMRqsEeuIW5Q61MLZKA" type="Sequence" element="_UeuKIBqsEeuIW5Q61MLZKA" name="Définir enchainement (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_UeuxMhqsEeuIW5Q61MLZKA" element="_UeuKIBqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -2574,7 +2574,7 @@
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_UBVBqsEeuIW5Q61MLZKA" type="Stereotype"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_UBVRqsEeuIW5Q61MLZKA" type="Name"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_UBVhqsEeuIW5Q61MLZKA" type="Parent"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_UBURqsEeuIW5Q61MLZKA" x="4801" y="640" width="1947" height="7620"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_UBURqsEeuIW5Q61MLZKA" x="4801" y="132" width="1947" height="9948"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_iL9WMBqsEeuIW5Q61MLZKA" element="_iL8vIBqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
                   <eAnnotations xmi:id="_iL9WMhqsEeuIW5Q61MLZKA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
@@ -2583,7 +2583,7 @@
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_iL99QRqsEeuIW5Q61MLZKA" type="Stereotype"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_iL99QhqsEeuIW5Q61MLZKA" type="Name"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_iL99QxqsEeuIW5Q61MLZKA" type="Parent"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iL9WMRqsEeuIW5Q61MLZKA" x="4149" y="168" width="1715" height="7620"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iL9WMRqsEeuIW5Q61MLZKA" x="4149" y="132" width="1715" height="10075"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_wo2dkBqsEeuIW5Q61MLZKA" element="_wowW8hqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wo2dkRqsEeuIW5Q61MLZKA" x="-1" y="1237" height="1693"/>
@@ -2605,6 +2605,11 @@
                   <styles xmi:type="notation:LineTypeStyle" xmi:id="_Hoc-IhqzEeuIW5Q61MLZKA"/>
                   <element xsi:nil="true"/>
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Hoc-IxqzEeuIW5Q61MLZKA" x="483" y="6496" width="5225" height="1016"/>
+                </children>
+                <children xmi:type="umlnotation:UMLShape" xmi:id="_DDoKQBrCEeubWsHs1eV8uA" element="_DDeZQBrCEeubWsHs1eV8uA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_DDoKQhrCEeubWsHs1eV8uA" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_DDpYYBrCEeubWsHs1eV8uA" type="Name"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DDoKQRrCEeubWsHs1eV8uA" x="-1" y="529"/>
                 </children>
               </children>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_UeuxNBqsEeuIW5Q61MLZKA" type="Name"/>
@@ -2680,10 +2685,10 @@
           <end xmi:id="_TgJ-MRquEeuIW5Q61MLZKA" role="_WuXnoRqjEeuIW5Q61MLZKA"/>
           <end xmi:id="_TgJ-MhquEeuIW5Q61MLZKA" role="_WuXnoRqjEeuIW5Q61MLZKA"/>
         </ownedConnector>
-        <lifeline xmi:id="_h_TaQBqsEeuIW5Q61MLZKA" name="bob" represents="_WSgLARqjEeuIW5Q61MLZKA" coveredBy="_wowW8BqsEeuIW5Q61MLZKA _wow-ABqsEeuIW5Q61MLZKA">
+        <lifeline xmi:id="_h_TaQBqsEeuIW5Q61MLZKA" name="bob" represents="_WSgLARqjEeuIW5Q61MLZKA" coveredBy="_wowW8BqsEeuIW5Q61MLZKA _wow-ABqsEeuIW5Q61MLZKA _DDeZQBrCEeubWsHs1eV8uA">
           <ownedComment xmi:id="_xaVvcBqtEeuIW5Q61MLZKA" annotatedElement="_h_TaQBqsEeuIW5Q61MLZKA"/>
         </lifeline>
-        <lifeline xmi:id="_iL8vIBqsEeuIW5Q61MLZKA" name="sys" represents="_WuXnoRqjEeuIW5Q61MLZKA" coveredBy="_wowW8RqsEeuIW5Q61MLZKA _wowW8hqsEeuIW5Q61MLZKA _wowW8xqsEeuIW5Q61MLZKA __6OrARquEeuIW5Q61MLZKA __6OrAhquEeuIW5Q61MLZKA __6PSEBquEeuIW5Q61MLZKA __6PSERquEeuIW5Q61MLZKA __6PSExquEeuIW5Q61MLZKA _AaQSEBqzEeuIW5Q61MLZKA _AaQSERqzEeuIW5Q61MLZKA _AaQSEhqzEeuIW5Q61MLZKA _AaQSExqzEeuIW5Q61MLZKA _AaQSFRqzEeuIW5Q61MLZKA"/>
+        <lifeline xmi:id="_iL8vIBqsEeuIW5Q61MLZKA" name="sys" represents="_WuXnoRqjEeuIW5Q61MLZKA" coveredBy="_wowW8RqsEeuIW5Q61MLZKA _wowW8hqsEeuIW5Q61MLZKA _wowW8xqsEeuIW5Q61MLZKA __6OrARquEeuIW5Q61MLZKA __6OrAhquEeuIW5Q61MLZKA __6PSEBquEeuIW5Q61MLZKA __6PSERquEeuIW5Q61MLZKA __6PSExquEeuIW5Q61MLZKA _AaQSEBqzEeuIW5Q61MLZKA _AaQSERqzEeuIW5Q61MLZKA _AaQSEhqzEeuIW5Q61MLZKA _AaQSExqzEeuIW5Q61MLZKA _AaQSFRqzEeuIW5Q61MLZKA _DDeZQBrCEeubWsHs1eV8uA"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wowW8BqsEeuIW5Q61MLZKA" covered="_h_TaQBqsEeuIW5Q61MLZKA" event="_w5qgwBqsEeuIW5Q61MLZKA" message="_wovv4BqsEeuIW5Q61MLZKA"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wowW8RqsEeuIW5Q61MLZKA" covered="_iL8vIBqsEeuIW5Q61MLZKA" event="_w5qgwRqsEeuIW5Q61MLZKA" message="_wovv4BqsEeuIW5Q61MLZKA"/>
         <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_wowW8hqsEeuIW5Q61MLZKA" covered="_iL8vIBqsEeuIW5Q61MLZKA" start="_wowW8RqsEeuIW5Q61MLZKA" finish="_wowW8xqsEeuIW5Q61MLZKA"/>
@@ -2699,6 +2704,7 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_AaQSFRqzEeuIW5Q61MLZKA" covered="_iL8vIBqsEeuIW5Q61MLZKA" event="_BMC7YRqzEeuIW5Q61MLZKA" message="_AaQSFBqzEeuIW5Q61MLZKA"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wowW8xqsEeuIW5Q61MLZKA" covered="_iL8vIBqsEeuIW5Q61MLZKA" event="_w5qgwBqsEeuIW5Q61MLZKA" message="_wowW9BqsEeuIW5Q61MLZKA"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_wow-ABqsEeuIW5Q61MLZKA" covered="_h_TaQBqsEeuIW5Q61MLZKA" event="_w5qgwRqsEeuIW5Q61MLZKA" message="_wowW9BqsEeuIW5Q61MLZKA"/>
+        <fragment xmi:type="uml:InteractionUse" xmi:id="_DDeZQBrCEeubWsHs1eV8uA" name="Référence d'interaction non précisée1" covered="_iL8vIBqsEeuIW5Q61MLZKA _h_TaQBqsEeuIW5Q61MLZKA" refersTo="_-rdYgBqzEeuIW5Q61MLZKA"/>
         <message xmi:id="_wovv4BqsEeuIW5Q61MLZKA" name="creerEnchainement" receiveEvent="_wowW8RqsEeuIW5Q61MLZKA" sendEvent="_wowW8BqsEeuIW5Q61MLZKA" connector="_wow-ARqsEeuIW5Q61MLZKA">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_ydttcBqsEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_ydttcRqsEeuIW5Q61MLZKA" source="Parameter" references="_rUXFIBqsEeuIW5Q61MLZKA"/>
@@ -2757,7 +2763,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_X1ChgBqzEeuIW5Q61MLZKA" name="Interaction9">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_X1ChgBqzEeuIW5Q61MLZKA" name="Définir un enchaînement (A1)">
         <eAnnotations xmi:id="_X1ChgRqzEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_X1ChghqzEeuIW5Q61MLZKA" type="Sequence" element="_X1ChgBqzEeuIW5Q61MLZKA" name="Définir un enchaînement (A1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_X1ChgxqzEeuIW5Q61MLZKA" element="_X1ChgBqzEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -2898,7 +2904,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_-rdYgBqzEeuIW5Q61MLZKA" name="Interaction10">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_-rdYgBqzEeuIW5Q61MLZKA" name="Annoter un enchainement (nominal)">
         <eAnnotations xmi:id="_-rd_kBqzEeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_-rd_kRqzEeuIW5Q61MLZKA" type="Sequence" element="_-rdYgBqzEeuIW5Q61MLZKA" name="Annoter un enchainement (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_-rd_khqzEeuIW5Q61MLZKA" element="_-rdYgBqzEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3130,7 +3136,7 @@
         </message>
         <message xmi:id="_8PCj9Bq0EeuIW5Q61MLZKA" name="ajObjEnch" messageSort="reply" receiveEvent="_8PCj9Rq0EeuIW5Q61MLZKA" sendEvent="_8PCj8xq0EeuIW5Q61MLZKA" connector="_pgrAUBq0EeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_Gz8ikBq0EeuIW5Q61MLZKA" name="Interaction11">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_Gz8ikBq0EeuIW5Q61MLZKA" name="Visualiser graphe (nominal)">
         <eAnnotations xmi:id="_Gz9JoBq0EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Gz9JoRq0EeuIW5Q61MLZKA" type="Sequence" element="_Gz8ikBq0EeuIW5Q61MLZKA" name="Visualiser graphe (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_Gz9Johq0EeuIW5Q61MLZKA" element="_Gz8ikBq0EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3236,7 +3242,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_3Z4WYBq1EeuIW5Q61MLZKA" name="Interaction12">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_3Z4WYBq1EeuIW5Q61MLZKA" name="Visualiser graphe (E1)">
         <eAnnotations xmi:id="_3Z5kgBq1EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_3Z5kgRq1EeuIW5Q61MLZKA" type="Sequence" element="_3Z4WYBq1EeuIW5Q61MLZKA" name="Visualiser graphe (E1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_3Z5kghq1EeuIW5Q61MLZKA" element="_3Z4WYBq1EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3335,7 +3341,7 @@
           </argument>
         </message>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_D4H_wBq2EeuIW5Q61MLZKA" name="Interaction14">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_D4H_wBq2EeuIW5Q61MLZKA" name="Analyser graphe (nominal)">
         <eAnnotations xmi:id="_D4KcABq2EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_D4KcARq2EeuIW5Q61MLZKA" type="Sequence" element="_D4H_wBq2EeuIW5Q61MLZKA" name="Analyser graphe (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_D4LDEBq2EeuIW5Q61MLZKA" element="_D4H_wBq2EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3435,7 +3441,7 @@
         <message xmi:id="_fujUEBq2EeuIW5Q61MLZKA" name="sectionsInatteignables" receiveEvent="_fujUEhq2EeuIW5Q61MLZKA" sendEvent="_fujUERq2EeuIW5Q61MLZKA" connector="_fuj7IRq2EeuIW5Q61MLZKA"/>
         <message xmi:id="_fujUFRq2EeuIW5Q61MLZKA" name="sectionsInatteignables" messageSort="reply" receiveEvent="_fuj7IBq2EeuIW5Q61MLZKA" sendEvent="_fujUFBq2EeuIW5Q61MLZKA" connector="_fuj7IRq2EeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_t79N8Bq2EeuIW5Q61MLZKA" name="Interaction13">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_t79N8Bq2EeuIW5Q61MLZKA" name="Générer imprimable (nominal)">
         <eAnnotations xmi:id="_t791ABq2EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_t791ARq2EeuIW5Q61MLZKA" type="Sequence" element="_t79N8Bq2EeuIW5Q61MLZKA" name="Générer imprimable (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_t791Ahq2EeuIW5Q61MLZKA" element="_t79N8Bq2EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3626,7 +3632,7 @@
         <message xmi:id="_ZQkqYBq-EeuIW5Q61MLZKA" name="datePublication" receiveEvent="_ZQlRcRq-EeuIW5Q61MLZKA" sendEvent="_ZQlRcBq-EeuIW5Q61MLZKA" connector="_sMRjkRq3EeuIW5Q61MLZKA"/>
         <message xmi:id="_ZQl4ghq-EeuIW5Q61MLZKA" name="datePublication" messageSort="reply" receiveEvent="_ZQmfkBq-EeuIW5Q61MLZKA" sendEvent="_ZQl4gRq-EeuIW5Q61MLZKA" connector="_sMRjkRq3EeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_eCndEBq-EeuIW5Q61MLZKA" name="Interaction15">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_eCndEBq-EeuIW5Q61MLZKA" name="Générer imprimable (E1)">
         <eAnnotations xmi:id="_eCoEIBq-EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_eCoEIRq-EeuIW5Q61MLZKA" type="Sequence" element="_eCndEBq-EeuIW5Q61MLZKA" name="Générer imprimable (E1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_eCoEIhq-EeuIW5Q61MLZKA" element="_eCndEBq-EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3729,7 +3735,7 @@
         </message>
         <message xmi:id="_eRIaMBq-EeuIW5Q61MLZKA" name="verifGraphe" receiveEvent="_eRBFcRq-EeuIW5Q61MLZKA" sendEvent="_eRBFcBq-EeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_kadI4Bq-EeuIW5Q61MLZKA" name="Interaction16">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_kadI4Bq-EeuIW5Q61MLZKA" name="Générer HTML (nominal)">
         <eAnnotations xmi:id="_kaeXABq-EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_kaeXARq-EeuIW5Q61MLZKA" type="Sequence" element="_kadI4Bq-EeuIW5Q61MLZKA" name="Générer HTML (nominal)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_kaeXAhq-EeuIW5Q61MLZKA" element="_kadI4Bq-EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
@@ -3886,7 +3892,7 @@
         <message xmi:id="_llCssBq-EeuIW5Q61MLZKA" name="verifGraphe" receiveEvent="_lkvKsBq-EeuIW5Q61MLZKA" sendEvent="_lkt8kBq-EeuIW5Q61MLZKA"/>
         <message xmi:id="_llCssRq-EeuIW5Q61MLZKA" name="genererPages" receiveEvent="_lkzcIBq-EeuIW5Q61MLZKA" sendEvent="_lkyOABq-EeuIW5Q61MLZKA"/>
       </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_0K90QBq-EeuIW5Q61MLZKA" name="Interaction17">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_0K90QBq-EeuIW5Q61MLZKA" name="Générer HTML (E1)">
         <eAnnotations xmi:id="_0K-bUBq-EeuIW5Q61MLZKA" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_0K-bURq-EeuIW5Q61MLZKA" type="Sequence" element="_0K90QBq-EeuIW5Q61MLZKA" name="Générer HTML (E1)" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_0K-bUhq-EeuIW5Q61MLZKA" element="_0K90QBq-EeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Text">
