@@ -1512,7 +1512,7 @@
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_PVpJwBqnEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_PVpJwRqnEeuIW5Q61MLZKA" source="Parameter" references="_MUAaMhqmEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;Jean Dupont&quot;</body>
+            <body>&quot;Bob Dupont&quot;</body>
           </argument>
         </message>
         <message xmi:id="_NM_3sRqmEeuIW5Q61MLZKA" name="sauvegardeLivre" messageSort="reply" receiveEvent="_NM_3shqmEeuIW5Q61MLZKA" sendEvent="_NM_3sBqmEeuIW5Q61MLZKA" connector="_8E9YsRqlEeuIW5Q61MLZKA"/>
