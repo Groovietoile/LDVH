@@ -1464,12 +1464,12 @@
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_2bS28BqkEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_2bS28RqkEeuIW5Q61MLZKA" source="Parameter" references="_W3WIABqkEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;Mon livre&quot;</body>
+            <body>&quot;DUP001&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_PKbDIBqlEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_PKbDIRqlEeuIW5Q61MLZKA" source="Parameter" references="_W3WIABqkEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;DUP001&quot;</body>
+            <body>&quot;Mon livre&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_6PeTMBqkEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_6PeTMRqkEeuIW5Q61MLZKA" source="Parameter" references="_h3Nu4BqkEeuIW5Q61MLZKA"/>
