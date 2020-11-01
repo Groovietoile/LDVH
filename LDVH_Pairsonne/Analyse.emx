@@ -1401,7 +1401,7 @@
                 </children>
               </children>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_PZsgJBqjEeuIW5Q61MLZKA" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PZsgJRqjEeuIW5Q61MLZKA" width="17907" height="14098"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PZsgJRqjEeuIW5Q61MLZKA" width="25019" height="14098"/>
             </children>
             <edges xmi:type="umlnotation:UMLConnector" xmi:id="_11J5cBqjEeuIW5Q61MLZKA" element="_102XcBqjEeuIW5Q61MLZKA" source="_WShZIBqjEeuIW5Q61MLZKA" target="_WuZc0BqjEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
               <children xmi:type="notation:DecorationNode" xmi:id="_11LHkBqjEeuIW5Q61MLZKA" type="MessageNameLabel">
@@ -1494,17 +1494,17 @@
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_2bS28BqkEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_2bS28RqkEeuIW5Q61MLZKA" source="Parameter" references="_W3WIABqkEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;Mon livre&quot;</body>
+            <body>&quot;DUP001&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_PKbDIBqlEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_PKbDIRqlEeuIW5Q61MLZKA" source="Parameter" references="_W3WIABqkEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;DUP001&quot;</body>
+            <body>&quot;Mon livre&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_6PeTMBqkEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_6PeTMRqkEeuIW5Q61MLZKA" source="Parameter" references="_h3Nu4BqkEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;Jean Dupont&quot;</body>
+            <body>&quot;Bob Dupont&quot;</body>
           </argument>
         </message>
         <message xmi:id="_106o4BqjEeuIW5Q61MLZKA" name="\Non spécifié\" messageSort="reply" receiveEvent="_106o4RqjEeuIW5Q61MLZKA" sendEvent="_106B0RqjEeuIW5Q61MLZKA" connector="_1073ABqjEeuIW5Q61MLZKA">
@@ -1542,7 +1542,7 @@
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_PVpJwBqnEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_PVpJwRqnEeuIW5Q61MLZKA" source="Parameter" references="_MUAaMhqmEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;Jean Dupont&quot;</body>
+            <body>&quot;Bob Dupont&quot;</body>
           </argument>
         </message>
         <message xmi:id="_NM_3sRqmEeuIW5Q61MLZKA" name="sauvegardeLivre" messageSort="reply" receiveEvent="_NM_3shqmEeuIW5Q61MLZKA" sendEvent="_NM_3sBqmEeuIW5Q61MLZKA" connector="_8E9YsRqlEeuIW5Q61MLZKA"/>
@@ -1598,7 +1598,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_ASX-4hqnEeuIW5Q61MLZKA" type="MessageNameLabel">
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_ASX-5BqnEeuIW5Q61MLZKA" type="Stereotype"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_ASX-5RqnEeuIW5Q61MLZKA" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ASX-4xqnEeuIW5Q61MLZKA" x="-33" y="-1608"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ASX-4xqnEeuIW5Q61MLZKA" x="94" y="-1989"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ASX-4RqnEeuIW5Q61MLZKA" points="[0, 0, 0, -18]$[0, 18, 0, 0]"/>
               <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ASZ0EBqnEeuIW5Q61MLZKA" id="379:212"/>
@@ -1608,7 +1608,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_ASfTohqnEeuIW5Q61MLZKA" type="MessageNameLabel">
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_ASfTpBqnEeuIW5Q61MLZKA" type="Stereotype"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_ASfTpRqnEeuIW5Q61MLZKA" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ASfToxqnEeuIW5Q61MLZKA" x="10" y="-1322"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ASfToxqnEeuIW5Q61MLZKA" x="10" y="-1851"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ASfToRqnEeuIW5Q61MLZKA" points="[0, 0, 0, -10]$[0, 10, 0, 0]"/>
               <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ASfTphqnEeuIW5Q61MLZKA" id="416:1058"/>
@@ -1650,7 +1650,7 @@
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_8NyIEBqmEeuIW5Q61MLZKA">
             <eAnnotations xmi:id="_8NyvIBqmEeuIW5Q61MLZKA" source="Parameter" references="_h3Nu4BqkEeuIW5Q61MLZKA"/>
             <language></language>
-            <body>&quot;Jean Dupont&quot;</body>
+            <body>&quot;Bob Dupont&quot;</body>
           </argument>
         </message>
         <message xmi:id="_5LMg0hqmEeuIW5Q61MLZKA" name="creerLivre" messageSort="reply" receiveEvent="_5LMg0xqmEeuIW5Q61MLZKA" sendEvent="_5LMg0RqmEeuIW5Q61MLZKA" connector="_5LMg1BqmEeuIW5Q61MLZKA">
@@ -2604,7 +2604,7 @@
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_UBVBqsEeuIW5Q61MLZKA" type="Stereotype"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_UBVRqsEeuIW5Q61MLZKA" type="Name"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_UBVhqsEeuIW5Q61MLZKA" type="Parent"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_UBURqsEeuIW5Q61MLZKA" x="4801" y="132" width="1947" height="9948"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_UBURqsEeuIW5Q61MLZKA" x="4547" y="168" width="1947" height="9948"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_iL9WMBqsEeuIW5Q61MLZKA" element="_iL8vIBqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
                   <eAnnotations xmi:id="_iL9WMhqsEeuIW5Q61MLZKA" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
@@ -2613,7 +2613,7 @@
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_iL99QRqsEeuIW5Q61MLZKA" type="Stereotype"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_iL99QhqsEeuIW5Q61MLZKA" type="Name"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_iL99QxqsEeuIW5Q61MLZKA" type="Parent"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iL9WMRqsEeuIW5Q61MLZKA" x="4149" y="132" width="1715" height="10075"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iL9WMRqsEeuIW5Q61MLZKA" x="4911" y="168" width="1715" height="10075"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_wo2dkBqsEeuIW5Q61MLZKA" element="_wowW8hqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" showListVisibility="Text" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wo2dkRqsEeuIW5Q61MLZKA" x="-1" y="1237" height="1693"/>
@@ -2643,7 +2643,7 @@
                 </children>
               </children>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_UeuxNBqsEeuIW5Q61MLZKA" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeuxNRqsEeuIW5Q61MLZKA" width="18796" height="10668"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UeuxNRqsEeuIW5Q61MLZKA" width="20701" height="13145"/>
             </children>
             <edges xmi:type="umlnotation:UMLConnector" xmi:id="_wo0BUBqsEeuIW5Q61MLZKA" element="_wovv4BqsEeuIW5Q61MLZKA" source="_h_UBUBqsEeuIW5Q61MLZKA" target="_iL9WMBqsEeuIW5Q61MLZKA" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
               <children xmi:type="notation:DecorationNode" xmi:id="_wo0BUhqsEeuIW5Q61MLZKA" type="MessageNameLabel">
@@ -2699,7 +2699,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_Aarv4BqzEeuIW5Q61MLZKA" type="MessageNameLabel">
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_Aarv4hqzEeuIW5Q61MLZKA" type="Stereotype"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_Aarv4xqzEeuIW5Q61MLZKA" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aarv4RqzEeuIW5Q61MLZKA" x="73" y="-2825"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aarv4RqzEeuIW5Q61MLZKA" x="-75" y="-3047"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AarI0RqzEeuIW5Q61MLZKA" points="[0, 0, 0, -10]$[0, 10, 0, 0]"/>
               <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Aarv5BqzEeuIW5Q61MLZKA" id="1515:1058"/>
@@ -3227,7 +3227,7 @@
               <children xmi:type="notation:DecorationNode" xmi:id="_ye_wwhq1EeuIW5Q61MLZKA" type="MessageNameLabel">
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_ye_wxBq1EeuIW5Q61MLZKA" type="Stereotype"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_ye_wxRq1EeuIW5Q61MLZKA" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ye_wwxq1EeuIW5Q61MLZKA" x="-11" y="-1301"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ye_wwxq1EeuIW5Q61MLZKA" x="-11" y="-1608"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ye_wwRq1EeuIW5Q61MLZKA" points="[0, 0, 0, -10]$[0, 10, 0, 0]"/>
               <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ye_wxhq1EeuIW5Q61MLZKA" id="2058:1058"/>
